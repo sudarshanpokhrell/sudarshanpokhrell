@@ -3,4 +3,3 @@
 - 🔭 I’m a student studing computer Science at Amrit Science Campus
 - 🌱 I’m currently learning TypeScript, NextJS and React Native.
 - 🔧 Passionate about: Full Stack Development, Problem-Solving, and Cutting-Edge Technologies
-- 🚀 Enthusiast in business and hackathon.
