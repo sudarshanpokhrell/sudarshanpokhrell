@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [sudarshanpokhrel.tech](sudarshanpokhrel.tech)
+- 👨‍💻 All of my projects are available at [www.sudarshanpokhrel.com.np](www.sudarshanpokhrel.com.np)
 
 - 💬 Ask me about **React and NextJs**
 
