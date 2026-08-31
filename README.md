@@ -4,14 +4,15 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Full stack developer building mobile and web applications
-- 🌱 Currently exploring DevOps and distributed systems
-- ⚡ I enjoy writing clean, scalable, and performant code across the stack
-- 📫 Reach me at: sudarshan.pokhrel2k62@gmail.com
-
+ 💻 Full stack developer building mobile and web applications
+ 🌱 Currently exploring DevOps and distributed systems
+ ⚡ I enjoy writing clean, scalable, and performant code across the stack
+ 📫 Reach me at: sudarshan.pokhrel2k62@gmail.com
+ 📚 Bsc CSIT Student
+ 
 ## 🛠️ Tech Stack
 
-**🎨 Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+**🎨 Frontend:** Next.js, React, React Native TypeScript, Tailwind CSS
 
 **⚙️ Backend:** Go, Bun, Node.js
 
