@@ -1,17 +1,21 @@
-Hi there, I'm Sudarshan Pokhrel 👋
-Full-Stack Developer
-🧑‍💻 About Me
-💻 Full-stack developer building mobile and web applications
-🌱 Currently exploring DevOps and distributed systems
-⚡ I enjoy writing clean, scalable, and high-performance code across the stack
-📫 Reach me at: sudarshan.pokhrel2k62@gmail.com
-📚 BSc CSIT Student
-🛠️ Tech Stack
+# Hi there, I'm Sudarshan Pokhrell 👋
 
-🎨 Frontend: Next.js, React, React Native, TypeScript, Tailwind CSS
+### Full Stack Developer
 
-⚙️ Backend: Go, Bun, Node.js
+## 🧑‍💻 About Me
 
-🚀 DevOps & Tools: Docker, Kubernetes, Linux, Git, GitHub, AWS
+- 💻 Full stack developer building mobile and web applications
+- 🌱 Currently exploring DevOps and distributed systems
+- ⚡ I enjoy writing clean, scalable, and performant code across the stack
+- 📫 Reach me at: sudarshan.pokhrel2k62@gmail.com
+- 📚 Bsc CSIT student
 
-🗄️ Databases: PostgreSQL, Redis
+## 🛠️ Tech Stack
+
+**🎨 Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+
+**⚙️ Backend:** Go, Bun, Node.js
+
+**🚀 DevOps & Tools:** Docker, Kubernetes, Linux, Git, GitHub, AWS
+
+**🗄️ Databases:** PostgreSQL, Redis
